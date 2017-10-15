@@ -1,0 +1,2 @@
+# CONTRIBUTING
+Anyone can contribute.
